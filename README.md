@@ -19,6 +19,7 @@ The results is reported as the accuracy of each classifier, using the following 
 - LogLoss
 
 ***Review criteria***
+
 This final project will be graded by your peers who are completing this course during the same session. This project is worth 25 marks of your total grade, broken down as follows:
 
 - Building model using KNN, finding the best k and accuracy evaluation (7 marks)
